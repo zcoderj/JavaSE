@@ -1,0 +1,5 @@
+ew SplitFile("src/com/cj/io/SplitFile.java", "splitFile", 1024);
+		splitFile.split();
+		splitFile.merge("SplitFile.txt");
+	}
+}

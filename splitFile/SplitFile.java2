@@ -1,0 +1,38 @@
+;
+		int len = -1;
+		while ((len = rafRead.read(flush)) != -1) {
+			if (actualSize > len) {
+				rafWrite.write(flush, 0, len);
+			} else {
+				rafWrite.write(flush, 0, actualSize);
+				break;
+			}
+		}
+		rafWrite.close();
+		rafRead.close();
+	}
+
+	public void merge(String targetPath) throws IOException {
+		// 输入流
+		Vector<InputStream> vector = new Vector<>();
+		SequenceInputStream sis = null;
+		for (int i = 0; i < this.targetPaths.size(); i++) {
+			vector.add(new BufferedInputStream(new FileInputStream(this.targetPaths.get(i))));
+		}
+		sis = new SequenceInputStream(vector.elements());
+		// 输出流 追加方式
+		OutputStream os = new BufferedOutputStream(new FileOutputStream(targetPath, true));
+		// 缓冲容器
+		byte[] flush = new byte[1024 * 1];
+		int len = -1;
+		while ((len = sis.read(flush)) != -1) {
+			os.write(flush, 0, len);
+		}
+		os.flush();
+		sis.close();
+		os.close();
+	}
+
+	public static void main(String[] args) throws IOException {
+
+		SplitFile splitFile = n

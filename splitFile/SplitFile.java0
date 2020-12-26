@@ -1,0 +1,46 @@
+package com.cj.io;
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Vector;
+
+/**
+ * @ClassName SplitFile
+ * @Description TODO
+ * @Author CJ
+ * @Date 2020/6/20 020 11:13
+ * @Version 1.0
+ **/
+public class SplitFile {
+
+	// 源头
+	private File source;
+	// 目的地（文件夹）
+	private String targetDir;
+	// 分割后所有文件的路径
+	private List<String> targetPaths;
+	// 每块大小
+	private int blockSize;
+	// 块数
+	private int blockNumber;
+
+	public SplitFile(String sourcePath, String targetDir, int blockSize) {
+		this.source = new File(sourcePath);
+		this.targetDir = targetDir;
+		this.blockSize = blockSize;
+		this.targetPaths = new ArrayList<>();
+		// 初始化
+		init();
+	}
+
+	/**
+	 * 初始化
+	 */
+	private void init() {
+		// 文件总大小
+		long length = this.source.length();
+		// 块数
+		this.blockNumber = (int) Math.ceil(length * 1.0 / blockSize);
+		// 分割后所有为文件的路径
+		for (int i = 0; i < block
