@@ -3,16 +3,20 @@ package com.cj;
 import com.sun.istack.internal.NotNull;
 import com.sun.java.accessibility.util.TopLevelWindowListener;
 import sun.print.SunMinMaxPage;
+import sun.reflect.generics.scope.MethodScope;
 
 import java.io.ObjectOutputStream;
+import java.net.SocketTimeoutException;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.TemporalAccessor;
 import java.util.*;
+import java.util.concurrent.TimeUnit;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
+import java.util.stream.Stream;
 
 /**
  * @ClassName Test
@@ -24,6 +28,9 @@ import java.util.function.Supplier;
 public class Test {
 
 	public static void main(String[] args) {
+
+
+
 //		DateTimeFormatter dtf = DateTimeFormatter.ISO_TIME;
 //		LocalDateTime ldt = LocalDateTime.now();
 //		String str = dtf.format(ldt);
@@ -58,6 +65,23 @@ public class Test {
 
 //		System.out.println(Integer.toBinaryString(-1));
 
+//		Integer a = new Integer(1);
+//		int b = 1;
+//		System.out.println(a == b);
+//
+//		Integer c = new Integer(200);
+//		int d = 200;
+//		System.out.println(c == d);
+
+//		List list = new ArrayList();
+//		list.add(1);
+//		list.add(2);
+//		list.add(3);
+//
+//		System.out.println(list.indexOf(null));
+
+		Stream<Integer> iterate = Stream.iterate(2, n -> n + 1);
+		iterate.limit(5).forEach(System.out::println);
 
 	}
 

@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5ecb337-0360-46f5-88a1-a59045e3b2ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-24T081822.200.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-06-24T081937.200.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/now1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/now2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaSE/META-INF/JavaSE.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/annotation/CustomizeAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/enumTest/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/io/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/methodreference/ConstructionMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/methodreference/InstanceMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/methodreference/ObjectMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/methodreference/StaticMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/client/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/client/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/client/LoginClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/client/PictureClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/client/UDPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/client/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/server/LoginServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/server/LoginThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/server/PictureServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/server/Server1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/server/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/server/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/stream/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/ThreadPoolExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/ArrayBlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/DelayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/PriorityBlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/SynchronousQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/NewWorkStealingPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/RecursiveActionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/RecursiveTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/schedulethreadpooexecutor/ScheduledThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cj/threadpool/threadpoolexecutor/ThreadPoolExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/JavaSE.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/H1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/annotation/CustomizeAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/annotation/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/annotation/Information.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/annotation/MyAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/annotation/MyAnnotation1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/annotation/MyAnnotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/annotation/RepeatAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/ballGame/BallGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/binarytree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/binarytree/Traversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/classadapter/Adaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/classadapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/classadapter/ClassAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/classadapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/objectadapter/Adaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/objectadapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/objectadapter/ObjectAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/adapter/objectadapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/bridge/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/bridge/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/bridge/Gift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/bridge/GiftImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/bridge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/bridge/WarmGift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/bridge/WildGift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Board.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/CPU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/ComputerBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/HuaweiComputerBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Memory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Person$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Person$PersonBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/Board.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/CPU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/ComputerBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/ComputerDirector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/HuaweiComputerBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/HuaweiDirector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/builder/builder/Memory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/FilterChain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Leader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/LeaveRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Request.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/ScriptFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/chainofresponsibility/SensitiveWordFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/Command1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/ConcreteCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/Content.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/CopyCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/DeleteCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/Invoke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/command/Receiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/composite/Component.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/composite/Composite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/composite/Leaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/decorator/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/decorator/FlyCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/decorator/ICar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/decorator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/decorator/SuperCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/decorator/WaterCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/facade/Facade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/facade/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/facade/SubSystemOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/facade/SubSystemTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/AbstractFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/Headset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/HuaweiComputer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/HuaweiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/HuaweiHeadset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/MiComputer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/MiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/abstractfactory/MiHeadset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/factorymethod/HuaweiPhoneFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/factorymethod/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/factorymethod/MiPhoneFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/factorymethod/PhoneFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/simplefactory/HuaweiPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/simplefactory/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/simplefactory/MiPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/simplefactory/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/simplefactory/SimplePhoneFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/factory/simplefactory/SimplePhoneFactory2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/flyweight/ChessFlyWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/flyweight/ChessFlyWeightFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/flyweight/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/flyweight/ConcreteChess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/flyweight/Coordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/flyweight/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/ArrayList_$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/ArrayList_$ArrayListIterator_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/ArrayList_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/Collection_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/Iterator_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/LinkedList_$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/LinkedList_$LinkedListIterator_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/LinkedList_$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/LinkedList_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/iterator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/mediator/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/mediator/Development.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/mediator/Finance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/mediator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/mediator/Mediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/mediator/President.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/memento/CareTaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/memento/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/memento/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/memento/UserMemento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/ConcreteSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/JdkObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/ObserverA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/ObserverB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/observer/SubjectA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/deepclone/DeepClone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/deepclone/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/deepclone/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/deepclone2/DeepClone2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/deepclone2/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/deepclone2/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/shallowclone/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/shallowclone/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/shallowclone/ShallowClone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/stringclone/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/stringclone/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/prototype/stringclone/StringClone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/cglibdynamicproxy/DynamicProxyOfCglib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/cglibdynamicproxy/Tank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/cglibdynamicproxy/TimeMethodInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/jdkdynamicproxy/DynamicProxyOfJdk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/jdkdynamicproxy/Movable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/jdkdynamicproxy/Tank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/jdkdynamicproxy/TimeProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/staticproxy/Movable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/staticproxy/StaticProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/staticproxy/Tank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/staticproxy/TankLogProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/proxy/staticproxy/TankTimeProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton07$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton07$Singleton07Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/singleton/Singleton09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/FreeState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/FullState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/Girl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/HappyState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/RoomState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/SadState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/state/State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/CatHeightComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/CatWeightComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Comparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/DogComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/NewCustomerStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/OldCustomerStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Sorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/strategy/Strategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/templatemethod/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/templatemethod/CustomerOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/templatemethod/Dinner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/templatemethod/F.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/templatemethod/F1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/templatemethod/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/Board.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/CPU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/CompanyVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/ComputerPart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/Memory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/PersonelVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/designpatterns/visitor/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/enumTest/Day.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/enumTest/EnumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/enumTest/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/CommonsIOTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/CommonsIOTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/CommonsIOTest03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/ObjectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/SplitFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/Test10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/io/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/juc/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/juc/TestForkJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/juc/Thread8Lock$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/juc/Thread8Lock$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/juc/Thread8Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/methodreference/ConstructionMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/methodreference/InstanceMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/methodreference/ObjectMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/methodreference/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/methodreference/StaticMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/methodreference/Type1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/InetAddressTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/InetSocketAddressTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/URLTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/WebSpiderTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/WebSpiderTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/client/Client1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/client/Client2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/client/LoginClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/client/PictureClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/client/UDPClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/client/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/server/LoginServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/server/LoginThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/server/PictureServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/server/Server1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/server/Server2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/server/UDPServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/TcpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/TcpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/chat/Chat$Channel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/chat/Chat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/chat/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/chat/Receive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/chat/Send.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/tcp/chat/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/IOUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpFileClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpFileServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpTalkReceive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpTalkSend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpTalkStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/net/udp/UdpTalkTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/Explode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/GameFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/GameFrame$KeyMonitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/GameFrame$PaintThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/GameFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/GameObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/GameUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/Plane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/planeGame/Shell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/regex/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/regex/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/regex/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/regex/WebSpiderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/stream/Language.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/stream/StreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/test/ComparableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/test/IteratorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/test/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/test/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Cinema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/CinemaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/CreateThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/DaemonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/DeadLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/DoubleCheckedLocking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/JoinTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/LambdaTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Lipstick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Markup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Mirror.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/MyThread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/MyTimerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/One.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Passenger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Race.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Syn12306.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/SynBlock12306.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/SynContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Test12306.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/ThreadLambda$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/ThreadLambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/ThreadLocalTest01$MyRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/ThreadLocalTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/ThreadLocalTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/ThreadTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/ThreadTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Three.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/TicketWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/TimerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Two.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/UploadPhoto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/VolatileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Web12306Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/Web1236.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/thread/YieldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/ThreadPoolExecutorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/ArrayBlockingQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/DelayQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/DelayTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/PriorityBlockingQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/SConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/SProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/SynchronousQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/blockingqueue/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/forkjoinpool/NewWorkStealingPoolTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/forkjoinpool/PrintTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/forkjoinpool/RecursiveActionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/forkjoinpool/RecursiveTaskTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/forkjoinpool/SumTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/schedulethreadpooexecutor/ScheduledThreadPoolExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/threadpoolexecutor/ThreadPoolExecutorTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/threadpool/threadpoolexecutor/ThreadPoolExecutorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/Mapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/WebContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/WebHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/XmlTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/servlet/RegisterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver01/servlet/Servlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/Dispatcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/Mapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/Request.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/Server01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/WebApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/WebContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/WebHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/servlet/OtherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/servlet/RegisterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cj/webserver02/servlet/Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cj/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cj/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cj/annotation/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cj/annotation/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cj/facade/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cj/designpatterns/facade/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cj/net/InetAddressTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cj/net/InetAddressTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/class01/T01ByteCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/class02/T01ClassLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/class02/T02ClassLoaderScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/class02/T03LoadClassByHand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/class02/T04CustomizeClassLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jvm/class02/T05CustomizeClassLoaderWithEncryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test1/T01SleepYieldJoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test1/T02ThreadState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T01Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T02Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T03Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T04Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T05Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T06Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T07Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T08Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T09Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T10Synchronized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class02/T01Volatile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class02/T02VolatileReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class02/T03VolatileReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class02/T04VolatileNotSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class02/T05AtomicInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mthc/class02/T06Unsafe.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Enumeration</find>
+      <find>isempty</find>
+      <find>compareandswap</find>
+      <find>compareands</find>
+      <find>allocatememory</find>
+      <find>classLoader</find>
+      <find>NoClassDefFoundError</find>
+      <find>defineClass</find>
+      <find>DEFAULT_CAPACITY</find>
+      <find>forEach</find>
+      <find>HashMap</find>
+      <find>in</find>
+      <find>h &amp; (</find>
+      <find>rehash</find>
+      <find>Segment</find>
+      <find>&amp; segmentMask</find>
+      <find>UNTREEIFY_THRESHOLD</find>
+      <find>UNTR</find>
+      <find>split</find>
+      <find>untreeify</find>
+      <find>resize</find>
+      <find>ConcurrentModi</find>
+      <find>EntryIterator</find>
+      <find>tree</find>
+      <find>removeEldestEntry</find>
+      <find>afterNodeInsertion</find>
+      <find>afterNode</find>
+      <find>map</find>
+      <find>execute</find>
+      <find>common</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/thread/JoinTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/thread/ThreadLocalTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/thread/SynContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/thread/ThreadLocalTest02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/designpatterns/singleton/Singleton03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/designpatterns/singleton/Singleton06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/designpatterns/singleton/Singleton07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/designpatterns/singleton/Singleton08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/designpatterns/strategy/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mthc/class01/test1/T02ThreadState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T03Synchronized.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T04Synchronized.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mthc/class01/test2/T10Synchronized.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/test/GenericTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/threadpoolexecutor/NewCachedThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/threadpoolexecutor/ThreadPoolExecutorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/ScheduledThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/NewWorkStealingPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/RecursiveActionTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/RecursiveActionTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/RecursiveActionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/forkjoinpool/RecursiveTaskTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/ThreadPoolExecutorDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/ArrayBlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/DelayQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/PriorityBlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/SynchronousQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/InetAddressTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/client/Client1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/server/Server1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/client/Client2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/server/Server2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/server/PictureServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/client/PictureClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/client/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/client/LoginClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/server/LoginServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/server/LoginThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/server/UDPServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/net/client/UDPClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/methodreference/MethodReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/methodreference/MethodReferenceDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/methodreference/StaticMethodRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/methodreference/InstanceMethodRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/methodreference/ObjectMethodRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/methodreference/ConstructionMethodRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/annotation/Information.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/annotation/CustomizeAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/stream/StreamDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaSE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-760" />
+    <option name="y" value="226" />
+    <option name="width" value="1620" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes/com/jvm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mrhc.class01.test2" />
+      <recent name="com.mrhc.class02" />
+      <recent name="com.cj.designpatterns.singleton" />
+      <recent name="com.cj.designPatterns.strategy" />
+      <recent name="com.cj.designPatterns.singleton" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\JavaSE\target\classes\com\jvm" />
+      <recent name="D:\IDEA\JavaSE\src\main\java\com\cj\designpatterns\builder\builder\Computer" />
+      <recent name="D:\IDEA\JavaSE\src\com\cj\webserver02" />
+      <recent name="D:\IDEA\JavaSE\src" />
+      <recent name="D:\IDEA\JavaSE\src\com\cj\net\tcp\chat\ccc" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="cj" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pwd" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StreamDemo">
+    <configuration name="ConstructionMethodRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cj.methodreference.ConstructionMethodRef" />
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.methodreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceMethodRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cj.methodreference.InstanceMethodRef" />
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.methodreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectMethodRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cj.methodreference.ObjectMethodRef" />
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.methodreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticMethodRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cj.methodreference.StaticMethodRef" />
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.methodreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cj.stream.StreamDemo" />
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StaticMethodRef" />
+      <item itemvalue="Application.InstanceMethodRef" />
+      <item itemvalue="Application.ObjectMethodRef" />
+      <item itemvalue="Application.ConstructionMethodRef" />
+      <item itemvalue="Application.StreamDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.ConstructionMethodRef" />
+        <item itemvalue="Application.ObjectMethodRef" />
+        <item itemvalue="Application.InstanceMethodRef" />
+        <item itemvalue="Application.StaticMethodRef" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\CJ\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ecb337-0360-46f5-88a1-a59045e3b2ee" name="Default Changelist" comment="" />
+      <created>1592271268920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592271268920</updated>
+      <workItem from="1592271270336" duration="1780000" />
+      <workItem from="1592355788900" duration="5316000" />
+      <workItem from="1592375946742" duration="3832000" />
+      <workItem from="1592480306042" duration="6779000" />
+      <workItem from="1592525958740" duration="5592000" />
+      <workItem from="1592549694508" duration="1351000" />
+      <workItem from="1592556013197" duration="4237000" />
+      <workItem from="1592564982528" duration="427000" />
+      <workItem from="1592565439149" duration="4201000" />
+      <workItem from="1592616562750" duration="14186000" />
+      <workItem from="1592635065737" duration="1669000" />
+      <workItem from="1592648286078" duration="1678000" />
+      <workItem from="1592699133082" duration="1559000" />
+      <workItem from="1592706307120" duration="10229000" />
+      <workItem from="1592785105370" duration="7667000" />
+      <workItem from="1592801204907" duration="6067000" />
+      <workItem from="1592818101650" duration="1999000" />
+      <workItem from="1592830403247" duration="4438000" />
+      <workItem from="1592881304355" duration="13987000" />
+      <workItem from="1592918152622" duration="3553000" />
+      <workItem from="1592953136992" duration="5653000" />
+      <workItem from="1592965858203" duration="9401000" />
+      <workItem from="1592998614863" duration="260000" />
+      <workItem from="1595241930653" duration="2419000" />
+      <workItem from="1595565995401" duration="187000" />
+      <workItem from="1597118243751" duration="498000" />
+      <workItem from="1597246135941" duration="1869000" />
+      <workItem from="1597416092437" duration="44000" />
+      <workItem from="1597504274618" duration="1870000" />
+      <workItem from="1597545049547" duration="3861000" />
+      <workItem from="1597577353891" duration="2739000" />
+      <workItem from="1597629545421" duration="10216000" />
+      <workItem from="1597675889131" duration="1610000" />
+      <workItem from="1597804786785" duration="1838000" />
+      <workItem from="1598343544096" duration="1092000" />
+      <workItem from="1598424827265" duration="958000" />
+      <workItem from="1598450964141" duration="1378000" />
+      <workItem from="1598495658045" duration="617000" />
+      <workItem from="1598593055328" duration="213000" />
+      <workItem from="1598838905252" duration="3901000" />
+      <workItem from="1599399011062" duration="1210000" />
+      <workItem from="1599443631413" duration="5592000" />
+      <workItem from="1599529282574" duration="4143000" />
+      <workItem from="1599547279741" duration="4948000" />
+      <workItem from="1599635415765" duration="2912000" />
+      <workItem from="1599740763824" duration="5243000" />
+      <workItem from="1599804525714" duration="934000" />
+      <workItem from="1599877264596" duration="4584000" />
+      <workItem from="1599885676356" duration="645000" />
+      <workItem from="1599886428443" duration="1712000" />
+      <workItem from="1599890291178" duration="119000" />
+      <workItem from="1599998824446" duration="6089000" />
+      <workItem from="1600156879300" duration="9572000" />
+      <workItem from="1600178088055" duration="2170000" />
+      <workItem from="1600222506219" duration="11910000" />
+      <workItem from="1600257453916" duration="2052000" />
+      <workItem from="1600328708768" duration="7974000" />
+      <workItem from="1600400573806" duration="873000" />
+      <workItem from="1600413887031" duration="4757000" />
+      <workItem from="1600428197034" duration="14570000" />
+      <workItem from="1601423367410" duration="1065000" />
+      <workItem from="1602138878077" duration="361000" />
+      <workItem from="1602500052973" duration="3838000" />
+      <workItem from="1602550442002" duration="44000" />
+      <workItem from="1602594749560" duration="992000" />
+      <workItem from="1602599373246" duration="2570000" />
+      <workItem from="1602638862926" duration="603000" />
+      <workItem from="1602836106136" duration="942000" />
+      <workItem from="1602908051259" duration="6194000" />
+      <workItem from="1602942607312" duration="104000" />
+      <workItem from="1603111583281" duration="884000" />
+      <workItem from="1603119391644" duration="866000" />
+      <workItem from="1603206710451" duration="860000" />
+      <workItem from="1603380572150" duration="654000" />
+      <workItem from="1603764109199" duration="1348000" />
+      <workItem from="1603782245543" duration="374000" />
+      <workItem from="1603782981225" duration="2426000" />
+      <workItem from="1603800649784" duration="100000" />
+      <workItem from="1603847686177" duration="1590000" />
+      <workItem from="1603850031593" duration="866000" />
+      <workItem from="1603896013803" duration="2015000" />
+      <workItem from="1603939280664" duration="630000" />
+      <workItem from="1603939966954" duration="71000" />
+      <workItem from="1603956427339" duration="4353000" />
+      <workItem from="1604020130042" duration="3243000" />
+      <workItem from="1604043232080" duration="2136000" />
+      <workItem from="1604218161520" duration="3104000" />
+      <workItem from="1604400982050" duration="275000" />
+      <workItem from="1604819362834" duration="773000" />
+      <workItem from="1604880222329" duration="2140000" />
+      <workItem from="1604900315520" duration="2563000" />
+      <workItem from="1604924792351" duration="64000" />
+      <workItem from="1604966330472" duration="1466000" />
+      <workItem from="1605020044317" duration="1242000" />
+      <workItem from="1605101746254" duration="2528000" />
+      <workItem from="1605109780157" duration="162000" />
+      <workItem from="1605602426555" duration="375000" />
+      <workItem from="1605612094497" duration="6322000" />
+      <workItem from="1605619131599" duration="49000" />
+      <workItem from="1605619921084" duration="5000000" />
+      <workItem from="1605627934549" duration="12000" />
+      <workItem from="1605851010355" duration="791000" />
+      <workItem from="1605855635968" duration="2117000" />
+      <workItem from="1605872772115" duration="349000" />
+      <workItem from="1605918235339" duration="4700000" />
+      <workItem from="1605932921140" duration="2134000" />
+      <workItem from="1607351487511" duration="1210000" />
+      <workItem from="1607491605643" duration="740000" />
+      <workItem from="1608079811837" duration="2337000" />
+      <workItem from="1608086749591" duration="1097000" />
+      <workItem from="1608209111664" duration="5153000" />
+      <workItem from="1608270262642" duration="8819000" />
+      <workItem from="1608632387806" duration="5562000" />
+      <workItem from="1608638830271" duration="1618000" />
+      <workItem from="1608640478769" duration="686000" />
+      <workItem from="1608641193123" duration="1552000" />
+      <workItem from="1608642807788" duration="2427000" />
+      <workItem from="1608647108290" duration="4810000" />
+      <workItem from="1608709051553" duration="3023000" />
+      <workItem from="1608729634329" duration="233000" />
+      <workItem from="1608790549108" duration="631000" />
+      <workItem from="1608948759828" duration="4680000" />
+      <workItem from="1608956336782" duration="653000" />
+      <workItem from="1609035438602" duration="1190000" />
+      <workItem from="1609051591709" duration="2151000" />
+      <workItem from="1609071490502" duration="47000" />
+      <workItem from="1609133128463" duration="2282000" />
+      <workItem from="1609135535840" duration="2019000" />
+      <workItem from="1609667681218" duration="9208000" />
+      <workItem from="1610542970852" duration="4764000" />
+      <workItem from="1610622102970" duration="11020000" />
+      <workItem from="1610667272815" duration="22136000" />
+      <workItem from="1610761426070" duration="4940000" />
+      <workItem from="1610791605629" duration="4574000" />
+      <workItem from="1610853199642" duration="15443000" />
+      <workItem from="1610938210646" duration="2278000" />
+      <workItem from="1610973908867" duration="1853000" />
+      <workItem from="1611037051521" duration="2138000" />
+      <workItem from="1611055550884" duration="5998000" />
+      <workItem from="1611146735728" duration="7102000" />
+      <workItem from="1611199495386" duration="13551000" />
+      <workItem from="1611220639094" duration="636000" />
+      <workItem from="1611295471154" duration="602000" />
+      <workItem from="1611321651318" duration="99000" />
+      <workItem from="1611368323424" duration="25804000" />
+      <workItem from="1611407187322" duration="644000" />
+      <workItem from="1611464671206" duration="6104000" />
+      <workItem from="1611495132926" duration="2295000" />
+      <workItem from="1611538553267" duration="517000" />
+      <workItem from="1611545700678" duration="12104000" />
+    </task>
+    <task id="LOCAL-00001" summary="JavaSE">
+      <created>1608954749647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608954749647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="525205000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.23726542" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.33718246" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013405" side_tool="true" weight="0.24752475" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32794458" />
+      <window_info anchor="bottom" id="Problems" order="10" weight="0.3281471" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.36685553" />
+      <window_info anchor="bottom" x="564" y="246" width="572" height="465" id="Run" order="13" sideWeight="0.49865952" visible="true" weight="0.1898017" />
+      <window_info anchor="bottom" id="REST Client" order="14" weight="0.5269886" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" x="522" y="169" width="492" height="486" id="Key Promoter X" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Mybatis datasource" order="11" side_tool="true" />
+      <window_info anchor="right" id="jclasslib" order="12" weight="0.47184986" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="JavaSE" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaSE" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="79" column="44" lean-forward="true" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+          <folding>
+            <element signature="e#6812#6813#0" expanded="true" />
+            <element signature="e#6849#6850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="1302" column="47" lean-forward="true" selection-start-line="1302" selection-start-column="47" selection-end-line="1302" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/threadpool/ThreadPoolExecutorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/concurrent/Delayed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="211" column="37" selection-start-line="211" selection-start-column="37" selection-end-line="211" selection-end-column="37" />
+          <folding>
+            <element signature="e#8508#8509#0" expanded="true" />
+            <element signature="e#8555#8556#0" expanded="true" />
+            <element signature="e#8926#8927#0" expanded="true" />
+            <element signature="e#8973#8974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/concurrent/DelayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="139" column="16" lean-forward="true" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+          <folding>
+            <element signature="e#4069#4070#0" expanded="true" />
+            <element signature="e#4100#4101#0" expanded="true" />
+            <element signature="e#4914#4915#0" expanded="true" />
+            <element signature="e#4938#4939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="332" column="19" selection-start-line="332" selection-start-column="19" selection-end-line="332" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/ArrayBlockingQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/DelayQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="34" lean-forward="true" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/PriorityBlockingQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="32" column="25" lean-forward="true" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/threadpool/blockingqueue/SynchronousQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="670" column="18" selection-start-line="670" selection-start-column="18" selection-end-line="670" selection-end-column="18" />
+          <folding>
+            <element signature="e#24226#24227#0" expanded="true" />
+            <element signature="e#24253#24254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/InetAddressTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/tcp/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/io/FilterOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="139" column="14" lean-forward="true" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="137" column="16" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/io/DataOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding>
+            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/server/Server1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/client/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/server/Server2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/client/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="1572" column="25" selection-start-line="1572" selection-start-column="25" selection-end-line="1572" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/net/SocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="214" column="19" selection-start-line="214" selection-start-column="19" selection-end-line="214" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/server/PictureServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/client/PictureClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/client/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/server/LoginThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/server/LoginServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/client/LoginClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/server/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/net/client/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/function/BiConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/stream/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/designpatterns/facade/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/binarytree/Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/binarytree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/methodreference/InstanceMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/methodreference/StaticMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/methodreference/ObjectMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/methodreference/ConstructionMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/annotation/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/annotation/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/annotation/CustomizeAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.8.0_271/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="422" column="45" lean-forward="true" selection-start-line="422" selection-start-column="19" selection-end-line="422" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/stream/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="99" column="37" lean-forward="true" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3465#3466#0" expanded="true" />
+            <element signature="e#3488#3489#0" expanded="true" />
+            <element signature="e#3783#3784#0" expanded="true" />
+            <element signature="e#3810#3811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaSE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-io-2.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

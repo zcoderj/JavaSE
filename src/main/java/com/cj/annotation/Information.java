@@ -1,5 +1,7 @@
 package com.cj.annotation;
 
+import com.cj.Test;
+
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;
 

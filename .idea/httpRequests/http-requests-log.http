@@ -1,0 +1,16 @@
+POST http://localhost:8888?username=cj&pwd=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-06-24T081937.200.html
+
+###
+
+POST http://localhost:8888?username=cj&pwd=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-06-24T081822.200.html
+
+###
+

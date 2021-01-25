@@ -1,5 +1,6 @@
 package com.cj.net;
 
+import java.io.Serializable;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
@@ -14,15 +15,13 @@ public class InetAddressTest01 {
 
 	public static void main(String[] args) throws UnknownHostException {
 		InetAddress inetAddress = InetAddress.getLocalHost();
-		System.out.println(inetAddress.getHostAddress());
+		System.out.println(inetAddress);
+		System.out.println(InetAddress.getByName("DESKTOP-UFBR45O"));
 		System.out.println(inetAddress.getHostName());
+		System.out.println(inetAddress.getHostAddress());
 
-//		InetAddress inetaddress = InetAddress.getByName("www.baidu.com");
-//		System.out.println(inetaddress.getHostAddress());
-//		System.out.println(inetaddress.getHostName());
-
-//		InetAddress inetAddress = InetAddress.getByName("14.215.177.38");
-//		System.out.println(inetAddress.getHostAddress());
-//		System.out.println(inetAddress.getHostName());
+		InetAddress inetAddress2 = InetAddress.getByName("www.baidu.com");
+		System.out.println(inetAddress2.getHostAddress());
+		System.out.println(inetAddress2.getHostName());
 	}
 }
